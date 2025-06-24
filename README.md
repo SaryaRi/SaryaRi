@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me!
+
+This is all about me and what I like.
+- I am learning to be a Technical Writer.
+- I play board games.
+
+*Did you know an octopus has three hearts?*
+
+![a little cat](https://tile.loc.gov/storage-services/service/pnp/pga/05000/05046r.jpg)
+
 
 <!--
 **SaryaRi/SaryaRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
